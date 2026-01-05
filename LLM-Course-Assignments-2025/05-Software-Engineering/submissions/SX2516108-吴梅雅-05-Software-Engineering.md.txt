@@ -151,3 +151,15 @@ MODEL_CONFIG = {
    - 调用 Agent 生成修复补丁
    - 验证补丁对`FAIL_TO_PASS`和`PASS_TO_PASS`测试用例的影响
 3. 计算总体成功率并输出详细结果
+
+## 5.实验结果
+
+样本数量 : 164
+通过       : 148
+通过率       : 0.9024
+
+![image-20260105205234890](C:\Users\AA\AppData\Roaming\Typora\typora-user-images\image-20260105205234890.png)
+
+![image-20260105205241651](C:\Users\AA\AppData\Roaming\Typora\typora-user-images\image-20260105205241651.png)
+
+![image-20260105205245668](C:\Users\AA\AppData\Roaming\Typora\typora-user-images\image-20260105205245668.png)
