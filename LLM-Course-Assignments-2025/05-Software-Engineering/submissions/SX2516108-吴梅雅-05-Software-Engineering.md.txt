@@ -154,6 +154,8 @@ MODEL_CONFIG = {
 
 ## 5.实验结果
 
+#### HumanEval数据集
+
 样本数量 : 164
 通过       : 148
 通过率       : 0.9024
@@ -163,3 +165,15 @@ MODEL_CONFIG = {
 ![image-20260105205241651](C:\Users\AA\AppData\Roaming\Typora\typora-user-images\image-20260105205241651.png)
 
 ![image-20260105205245668](C:\Users\AA\AppData\Roaming\Typora\typora-user-images\image-20260105205245668.png)
+
+#### MBPP数据集
+
+Total Samples        : 500
+Executable Tests     : 500
+Assertion Error      : 0
+Timeout Cases        : 0
+Runtime Error Cases  : 0
+
+![image-20260107135408120](C:\Users\AA\AppData\Roaming\Typora\typora-user-images\image-20260107135408120.png)
+
+![image-20260107135416543](C:\Users\AA\AppData\Roaming\Typora\typora-user-images\image-20260107135416543.png)
